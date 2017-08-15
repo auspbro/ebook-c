@@ -1,2 +1,2 @@
 # ebook-c
-ebook about c language.
+ebooks about c programing language.
